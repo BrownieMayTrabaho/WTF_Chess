@@ -1,3 +1,6 @@
 int main(void){
-return 0;
+
+	/*WTF*/
+	return 0;
+
 }
